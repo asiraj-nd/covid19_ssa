@@ -8,7 +8,7 @@ All code contained within this repository is released under the [CRAPL v0.1 Lice
 
 ====================
 
-##code folder
+## code folder
 
 The scripts in this folder run model simulations, generate results on a daily basis, summarize results into manageable tables, and postprocess results to perform further analyses. The simulation model is an implementation of a process based model structured in to Susceptible, Exposed, Infectious and Removed (SEIR) states.
 The main model uses the Partially Observed Markov Process (POMP), with stochastic process model [King et al. 2016], and most parameters obtained from recent studies. 
@@ -23,17 +23,17 @@ The main model uses the Partially Observed Markov Process (POMP), with stochasti
 Each of the scripts in the folder should run in the order indicated starting with #1, #2 and #3. The two initial scripts header files, and are loaded automatically from within the three other.
 
 
-##data folder
+## data folder
 
 Data included here relate to the age pyramid obtained from Ethiopia [CSA, 2012], and age specific case fatality rates for China [The Novel Coronavirus Pneumonia Emergency Response Epidemiology Team, 2020].
 
 
-##outputs folder
+## outputs folder
 
 This is where simulation and other processed data are stored. 
 
 
-##plots folder
+## plots folder
 
 This folder contains figures output based on visualization scripts.  
 
