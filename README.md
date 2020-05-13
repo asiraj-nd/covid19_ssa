@@ -44,3 +44,4 @@ This folder contains figures output based on visualization scripts.
 3. Central Statistics Authority, CSA. The 2007 Population and Housing Census of Ethiopia. Addis Ababa, Ethiopia, 2012.CSA
 4. The Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) — China, 2020[J]. 2020 http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51.
 # covid19_ssa
+# covid19_ssa
