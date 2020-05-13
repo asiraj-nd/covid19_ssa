@@ -1,7 +1,8 @@
 ##########################################################################
 
 " 
-  This file is part of the Preprint https://doi.org/10.1101/2020.04.07.20053421.
+  This file is part of the Preprint 
+  https://www.medrxiv.org/content/10.1101/2020.04.07.20053421v2.
   
   Written by Amir S Siraj
   February 2020
