@@ -38,7 +38,7 @@ This is where simulation and other processed data are stored.
 This folder contains figures output based on visualization scripts.  
 
 
-##References
+## References
 1. Siraj AS, Worku A, Berhane K, Berhane Y, Siraj DS. Early estimates of COVID-19 infections in small, medium and large population clusters. MedRxiv, doi: https://doi.org/10.1101/2020.04.07.20053421.
 2. King AA, Nguyen D, Ionides EL. Statistical Inference for Partially Observed Markov Processes via the R Package pomp. J Stat Soft 2016; 69. DOI:10.18637/jss.v069.i12. 
 3. Central Statistics Authority, CSA. The 2007 Population and Housing Census of Ethiopia. Addis Ababa, Ethiopia, 2012.CSA
