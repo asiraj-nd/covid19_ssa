@@ -1,8 +1,8 @@
 # COVID-19 SSA, Early estimates of COVID-19 infections
 
-This repository contains codes used in the preprint:
+This repository contains codes used in the published work:
 
-[Siraj AS, Worku A, Berhane K, Berhane Y, Siraj DS. 2020] (https://www.medrxiv.org/content/10.1101/2020.04.07.20053421v2) - also in review.
+[Siraj AS, Worku A, Berhane K, Aregawi M, Eshetu M, Mirkuzie A, Berhane Y, Siraj DS. 2020] (https://gh.bmj.com/content/5/9/e003055).
 
 All code contained within this repository is released under the [CRAPL v0.1 License](http://matt.might.net/articles/crapl/). 
 
